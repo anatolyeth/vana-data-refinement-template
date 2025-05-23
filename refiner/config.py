@@ -21,7 +21,7 @@ class Settings(BaseSettings):
     )
     
     SCHEMA_NAME: str = Field(
-        default="Google Drive Analytics of My DLP 1_2",
+        default="Google Drive Analytics of My DLP 1_3",
         description="Name of the schema"
     )
     
